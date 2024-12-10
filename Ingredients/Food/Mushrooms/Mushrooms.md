@@ -22,7 +22,7 @@ Most kinds of edible mushrooms hold a rich umami flavour and are incredibly nutr
 	These mushrooms are a vibrant yellow, with a complex, unique aroma. They boast peppery, nutty tones with a fruity hint, adding a pop of flavour to both savoury and sweet dishes. On their own, they can be sautéed in butter for a tasty #Course/Side dish, or added to complex meat dishes. It works well as a #Course/Garnish, #TypeOfFood/Sauce ,or #TypeOfFood/Risotto .
 - **[[Royal Trumpet Mushrooms|Royal trumpet mushrooms]]** 
 	These are the largest variety of oyster mushrooms. They have thick, dense stems, and small caps. When cooked, these have a fantastic meaty texture, similar to [[Scallop|scallops]]. It has a savoury umami flavour that isn't overpowering. They are versatile, and can be used as a #Course/Garnish , grilling, roasting, and as a meat substitute.
-- **[[Hon Shimeji Mushrooms|Hon shimeji mushrooms]]**
+- **[[Shimeji Mushrooms|Hon shimeji mushrooms]]**
 	These mushrooms, also known as *beech mushrooms*, are a popular gourmet mushroom in Asia. They are noted to have a nutty flavour with buttery notes. Brown beech mushrooms are nuttier, while white beech mushrooms are sweeter. They are known to retain their texture when cooked, offering a slightly crunchy, firm bite. Care must be taken to not overcook them, as they will lose their texture. These are great in #TypeOfFood/Stirfry, #TypeOfFood/Noodles, and #TypeOfFood/Soup.
 
 #Ingredient/Category

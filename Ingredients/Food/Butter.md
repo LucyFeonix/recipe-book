@@ -15,4 +15,4 @@ In cooking, butter is used to elevate the flavour in vegetables and proteins. It
 
 Finally, butter can be used in grilling. Generally, clarified butter is used on a lower heat. The side that is not being grilled would be basted, in order to lock in the flavour before flipping the item.
 
-	#Ingredient/Category 
+#Ingredient/Category 

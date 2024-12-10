@@ -1,5 +1,6 @@
-Fully matured *[[Button Mushrooms|agaricus bisporus]]*. These have large, meaty cups and offer a more intense flavour. These tend to get slimy when cooked in any type of fat, so it is recommended to prepare these in a dry heat. When done well, these can offer a great meat substitute. They are ideal for [[Stuffed Portobello|stuffing]] or grilling due to their size.
+Portobello mushrooms are the bigger, browner brother of [[Button Mushrooms|agaricus bisporus]]. Their slightly flaky cap measures 10-15cm across, concealing fully developed dark brown gills. Generally, they have a firm, somewhat meaty texture, and are slightly drier when cooked due to their naturally lesser water content. These mushrooms have a rich, earthy, meaty, brothy flavour, being rich in umami, even in comparison to its younger brothers. This is because agaricus bisporus loses its water content as it matures, which concentrates the flavours in the fungal flesh. 
+
+Due to the low moisture content, portobello mushrooms soak up liquids extremely easily. As such, care should be taken when using [[Butter|butter]] or [[Oil|oil]], as adding too much can turn the mushroom into a slimy mess. It is recommended to prepare these in a dry heat.
+The stems are fully edible, but generally taste more woody. Usually, these are removed, but they make for a great [[Stock|stock]]. When stuffing a portobello, you'll likely want to remove the gills, as it will make more room for stuffing the thing. Otherwise, the cap makes for a great meat substitute.
 
 #Ingredient 
-
-[[TODO]]
