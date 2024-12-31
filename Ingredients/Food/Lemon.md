@@ -1,3 +1,11 @@
+---
+aliases:
+  - Lemon Juice
+  - lemon juice
+  - Lemon Zest
+  - lemon zest
+---
+
 Lemons are a citrus fruit that is iconic for its sour notes, but also has sweet notes. It's used for adding acids and zest to dishes. It can be used as a flavour enhancer, a garnish, or as a finishing touch.
 
 ## Uses
